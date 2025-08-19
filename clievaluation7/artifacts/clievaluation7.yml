@@ -1,0 +1,5 @@
+artifacts:
+  clievaluation7:
+    type: whl
+    build: uv build
+    path: ..
